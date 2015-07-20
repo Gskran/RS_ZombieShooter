@@ -1,0 +1,147 @@
+FFA gameplay, 2v2v2v2, 4v4  20-30 minutes
+
+game mods: 
+Hardcore mode, if you die, your dead.
+
+
+shooter
+
+zombies:type 1
+gives points per bullet hit 50, double points for headshots. 
+
+always walk toward player, when hit, run x3 as fast as walk.
+
+cannot climb, or jump.
+
+attack within proximity, attack follows through once started.
+
+
+
+
+
+
+
+if you die, you can pick up your loot, if another player hasent if you die again, it gets lost.(dark souls reference)
+
+escape the city while getting to checkpoints: goal
+
+stores have 1 weapon that does not randomize, and it has 2 others that do randomize. 
+
+crates: refill ammo (always), and can have random weapons or nothing.
+
+special zombies drop random perks when zombies die.
+
+level based matchmaking: perk selection outside the game, 
+
+PREGAME
+
+up to level 30, has 8 perks to choose from, allowed 3 total.
+
+
+
+(Optionals)
+
+
+Choose 3 total for loadout.
+
+
+bullet upgrades:
+
+
+all bullet upgrades for each carried weapon, override previous upgrades.
+
+
+incindiary rounds (50% additional damage over 4 secconds for all guns)
+
+
+hollow points  ( 50% increased damage with headshot, 50% slow for any hit.)
+
+
+full metal jacket (50% chance to peirce, deals 50% increased damage to subsequent targets)
+
+
+explosive ordenance (normal damage, deals 100% additional damage delayed by 1 seccond, AOE effect 4 foot radius of full bullet damage. deals damage to self if too close.
+
+
+(Optionals)
+
+Player STACKABLES upgrades: (balancing) stacked by killing zombies
+
+Track star: increase movement speed by 2%. stackable up to 25 times.
+points per stack.
+
+Hand eye coordination: increases reload speed 5%. stackable up to 15 times.
+points per stack.
+
+natural resialiance: increases health by 5% per stack, may be stacked 25 times.
+points per stack.
+
+Gymnastics: increases jump height and jump distance by 1% per stack. may be stacked 20 times.
+points per stack.
+
+Hand to hand specialist: increases mele distance and speed by 2% per stack. may be stacked 25 times. base at 3 foot range, .3 seccond to hit, 1.6 secconds to recover. ( OPTIONAL MECHANIC )
+points per stack.
+
+Sharpshooter: bullet fallof damage negated until max range.
+points. (one time purchase)
+
+))))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
