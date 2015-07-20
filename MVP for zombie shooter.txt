@@ -1,3 +1,64 @@
+ESCAPE THROUGH TIME.
+
+Time traveler mercenaries:
+
+8 mercenaries step into the time travel devices from different parts of the world. (small houses themed arround the character. (OPTIONAL:modular, referenced to character picked.)
+
+to signify the player is on there own, or who they are partied with.
+
+
+this starts the countdown when all players ready up (step into time booth)
+
+Trigger short FX cutscene of time warp true for all players)
+
+trigger is bypassed after 2 minutes and game starts on its own.
+
+when countdown ends, player is playable character holding a gun (based on class level and loadouts)
+Player now exists in there respectible lane or starting position.
+
+(first person or third person view available)
+
+sound/voice actors will tell you status updates of what happens in game through your characters radio such as, who has the artifact at the moment.
+
+
+
+
+
+
+
+
+
+
+
+
+Artifact : reason why you are in the game. 
+you are time travelers hunting for artifacts in different worlds.
+at the end of the game, it should feel like ODDBALL gametype.
+
+
+
+
+
+hud display should show: 
+Health % total and number in a bar.(bottom left)
+ammo
+small icons of what perks are enabled, flash and fade out when effect is triggered or solid when constant(over health bar)
+players killed : how:Grenade (player callsign)
+on screen points gained floating text above zombies (toggleable for player)
+-Points total score keeper-
+minimap?
+
+
+Trigger: voice chat proximity, you can only hear players when they are 40 feet from you or less.
+
+
+
+
+
+
+ 
+
+
 FFA gameplay, 2v2v2v2, 4v4  20-30 minutes
 
 game mods: 
@@ -21,9 +82,9 @@ attack within proximity, attack follows through once started.
 
 
 
-if you die, you can pick up your loot, if another player hasent if you die again, it gets lost.(dark souls reference)
+if you die, you can pick up your loot, if another player hasent already. if you die again, it gets lost forever.(dark souls reference)
 
-escape the city while getting to checkpoints: goal
+escape the city while getting to checkpoints, find the artifact! careful! players can kill you!: goal
 
 stores have 1 weapon that does not randomize, and it has 2 others that do randomize. 
 
