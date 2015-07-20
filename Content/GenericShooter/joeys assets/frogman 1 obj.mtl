@@ -1,0 +1,5 @@
+# File created by ZBrush
+# ToolType: PolyMesh3D
+# www.zbrush.com
+newmtl defaultMat
+map_Kd frogman 1 obj.bmp
